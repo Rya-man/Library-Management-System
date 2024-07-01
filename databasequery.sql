@@ -1,7 +1,8 @@
 CREATE DATABASE IF NOT EXISTS library;
 USE library;
 
-
+-- drop database library
+-- set alll your queries and make your database here then we can delete the code below 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
